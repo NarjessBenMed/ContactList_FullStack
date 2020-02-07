@@ -1,0 +1,49 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 400px;
+  position: relative;
+  height: 250px;
+ background-color: #A1C8C9;
+ border-radius: 5px;
+}
+
+
+
+.DeleteModify {
+  display: flex;
+  position: absolute;
+  left: 80px;
+  top: 200px;
+}
+
+.DeleteModify button {
+  width: 100px;
+  margin-right: 20px;
+  border-radius: 5px;
+  
+  border-color:0px grey;
+  height: 40px;
+}
+
+.contactName {
+  position: absolute;
+  left: 20px;
+  top: 10px;
+  margin-top: 20px;
+}
+
+.contactTel {
+  position: absolute;
+
+  left: 20px;
+  top: 80px;
+}
+
+.contactEmail {
+  position: absolute;
+  left: 20px;
+  top: 120px;
+}

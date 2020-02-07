@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+h1
+{
+  color: gray;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.contactList
+{
+  background-color: #007bff;
+  border-color: #007bff;
+  height: 38px;
+  width: 148px;
+  border-radius: 5px;
+  color: white
+}
+
+.appButt
+{
+  display: flex;
+  
+  justify-content: space-between;
+  margin-left: 40%;
+  margin-right: 40%;
+
+}

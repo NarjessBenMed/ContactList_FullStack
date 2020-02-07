@@ -1,0 +1,10 @@
+.ModalBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ModalBody input {
+  margin-bottom: 20px;
+  height: 40px;
+}
